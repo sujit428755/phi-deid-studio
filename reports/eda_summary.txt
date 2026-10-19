@@ -1,0 +1,11 @@
+EDA SUMMARY
+========================================
+Total records     : 5
+Total columns     : 11
+Missing values    : 0
+Duplicate records : 0
+Scanned notes     : 2
+Non-scanned notes : 3
+Facilities        : 2
+Avg text length   : 232 chars
+Avg word count    : 33 words
