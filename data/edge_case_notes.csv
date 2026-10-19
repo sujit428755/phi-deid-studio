@@ -1,0 +1,4 @@
+note_id,patient_name,mrn,dob,phone,email,facility,is_scanned,note_text
+101,Jonathan Hale,020113,1969-02-09,(555) 700-1122,jhale@post.com,Riverside East Wing,False,Johnny came in on the morning of the ninth of February with knee pain. MRN: 020113. Seen at the Riverside East Wing. Call (555) 700-1122.
+102,Priya Natarajan,020774,1994-08-17,5557003344,priya.n@mail.in,Comm. Health annex,True,"Pri ya Natarajan attended the comm health annex on 17 Aug 26. MRN: O2O774. Reachable at 5557003344. Reports fatigue, hemoglobin low."
+103,Elizabeth Turner,021559,1958-12-25,(555) 610-9090,eturner@care.org,Riverside East Wing,False,Liz Turner (pt. of Dr. Anand) seen on Christmas Day 2025 at the RE Wing. MRN: 021559. Follow-up on (555) 610-9090.
