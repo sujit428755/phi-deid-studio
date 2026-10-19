@@ -1,0 +1,14 @@
+pandas>=2.0
+streamlit>=1.35
+plotly>=5.20
+spacy>=3.7
+python-dateutil>=2.8
+PyPDF2>=3.0
+python-docx>=1.0
+pytesseract>=0.3.10
+Pillow>=10.0
+openpyxl>=3.1
+matplotlib>=3.8
+pytest>=8.0
+# after installing:  python -m spacy download en_core_web_sm
+# OCR also needs the Tesseract binary: https://github.com/tesseract-ocr/tesseract
